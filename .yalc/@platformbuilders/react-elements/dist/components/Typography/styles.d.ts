@@ -1,0 +1,2 @@
+export declare const CustomTypography: import("styled-components").StyledComponent<import("@material-ui/core/OverridableComponent").OverridableComponent<import("@material-ui/core").TypographyTypeMap<{}, "span">>, any, {}, never>;
+//# sourceMappingURL=styles.d.ts.map
